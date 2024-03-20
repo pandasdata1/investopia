@@ -7,7 +7,7 @@ ctypes
 tkinter
 messagebox
 pandas
-matplotlib
+matplotlib.pyplot
 Slider
 Button
 RadioButtons
